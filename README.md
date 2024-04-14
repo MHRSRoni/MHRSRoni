@@ -20,7 +20,7 @@
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
 - Currently learning React and NextJS by Learn With Summit
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://read.cv/](https://drive.google.com/file/d/1Rv0JoPRWYcL28MsPL0UBsvslBvSvNkPz/view?usp=sharing))
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1Rv0JoPRWYcL28MsPL0UBsvslBvSvNkPz/view?usp=sharing)
 
 <br><br>
 
