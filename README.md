@@ -12,8 +12,8 @@
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-![profile picture](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-##<img align="right" src="https://drive.google.com/file/d/1YLQQdQoN7s1hd0FHDPMrFEYWSvBcmFRL/view?usp=sharing" width ="250">
+![profile picture](https://drive.google.com/file/d/1YLQQdQoN7s1hd0FHDPMrFEYWSvBcmFRL/view?usp=sharing)
+## <img align="right" src="https://drive.google.com/file/d/1YLQQdQoN7s1hd0FHDPMrFEYWSvBcmFRL/view?usp=sharing" width ="250">
 
 <br>
 
